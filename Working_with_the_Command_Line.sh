@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Working_with_the_Command_Line
  
